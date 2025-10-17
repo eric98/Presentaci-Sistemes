@@ -6,3 +6,5 @@ Un dels jocs que més he jugat últimament és el Silent Hill 2 Remake.
 
 ## El meu poble
 El meu poble m'encanta
+
+## Isaac Castellvi
