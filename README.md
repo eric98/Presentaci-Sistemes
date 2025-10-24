@@ -1,5 +1,10 @@
-Gerard
-
-David Caparros
-
-Andrea Valero
+- Andrea Valero
+- David Caparros
+- Joel Pinazo
+- David Postigo
+- Gerard Verdú
+- Isaac Castellvi
+- David Caparros
+- David Rojas
+- Eric Marchante
+- Ferran Reyes Verge
