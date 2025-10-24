@@ -1,11 +1,5 @@
-Gerard
-
-![Imatge de Silent Hill](./img.jpg)
-
-## El meu poble
-El meu poble m'encanta
-
+Gerard Verdú
 Isaac Castellvi
 David Caparros
-
+Eric Marchante
 Ferran Reyes Verge
