@@ -1,5 +1,6 @@
-Gerard
-
-David Caparros
-
-David Rojas
+- Gerard Verdú
+- Isaac Castellvi
+- David Caparros
+- David Rojas
+- Eric Marchante
+- Ferran Reyes Verge
