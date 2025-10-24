@@ -1,3 +1,5 @@
+- David Caparros
+- Joel Pinazo
 - David Postigo
 - Gerard Verdú
 - Isaac Castellvi
